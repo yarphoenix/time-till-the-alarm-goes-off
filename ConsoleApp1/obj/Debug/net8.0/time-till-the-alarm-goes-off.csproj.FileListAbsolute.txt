@@ -1,0 +1,15 @@
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\time-till-the-alarm-goes-off.exe
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\time-till-the-alarm-goes-off.deps.json
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\time-till-the-alarm-goes-off.runtimeconfig.json
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\time-till-the-alarm-goes-off.dll
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\time-till-the-alarm-goes-off.pdb
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\time-till-the-alarm-goes-off.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\time-till-the-alarm-goes-off.AssemblyInfoInputs.cache
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\time-till-the-alarm-goes-off.AssemblyInfo.cs
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\time-till-the-alarm-goes-off.csproj.CoreCompileInputs.cache
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\time-till-the-alarm-goes-off.sourcelink.json
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\time-till-the-alarm-goes-off.dll
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\time-till-the-alarm-goes-off.dll
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\time-till-the-alarm-goes-off.pdb
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\time-till-the-alarm-goes-off.genruntimeconfig.cache
+C:\Users\yarik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\time-till-the-alarm-goes-off.dll
